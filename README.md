@@ -1,6 +1,7 @@
 # netflix_vue
 
 > A Vue.js project
+## install vuejs in your computer
 
 ## Build Setup
 
